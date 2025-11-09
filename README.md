@@ -29,7 +29,7 @@ Aqui estão as tecnologias que estou aprendendo e usando em meus projetos:
 * **Ferramentas de BI:** Power BI, Tableau 
 * **Outros:** Git, GitHub, Jupyter Notebooks
 
-### 🚀 Meus Principais Projetos
+###  Meus Principais Projetos
 
 *Em breve! Fique de olho.*
 
@@ -59,7 +59,7 @@ I am a **Data Science for Business** student at UFPB, passionate about using dat
 *  I’m currently learning: **Advanced SQL, Machine learning,  Python, AI, Data analysis and visualization, Unstructured data modeling and more...**
 *  My goal is to work with data to drive strategic decision-making.
 
-### 🛠️My Tech Stack (Tools & Technologies)
+### My Tech Stack (Tools & Technologies)
 
 Here are the technologies I'm learning and using in my projects:
 
@@ -69,6 +69,6 @@ Here are the technologies I'm learning and using in my projects:
 * **BI Tools:** Power BI, Tableau
 * **Other:** Git, GitHub, Jupyter Notebooks
 
-### 🚀 My Main Projects
+###  My Main Projects
 
 *Soon! Keep your eyes on this.*
