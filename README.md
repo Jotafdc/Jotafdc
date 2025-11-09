@@ -38,7 +38,7 @@ Aqui estão as tecnologias que estou aprendendo e usando em meus projetos:
 
 ---
 
-## Hi, I'm João Filipe Dantas Cavalcanti 👋
+## Hi, I'm João Filipe Dantas Cavalcanti!
 
 I am a **Data Science for Business** student at UFPB, passionate about using data, analytics, and machine learning to solve real-world business problems.
 
